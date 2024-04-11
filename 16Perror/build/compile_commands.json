@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/egorkirichenko/Projects/C/16Perror/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/15bin.dir/main.c.o -c /Users/egorkirichenko/Projects/C/16Perror/main.c",
+  "file": "/Users/egorkirichenko/Projects/C/16Perror/main.c",
+  "output": "CMakeFiles/15bin.dir/main.c.o"
+},
+{
+  "directory": "/Users/egorkirichenko/Projects/C/16Perror/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/15bin.dir/student.c.o -c /Users/egorkirichenko/Projects/C/16Perror/student.c",
+  "file": "/Users/egorkirichenko/Projects/C/16Perror/student.c",
+  "output": "CMakeFiles/15bin.dir/student.c.o"
+},
+{
+  "directory": "/Users/egorkirichenko/Projects/C/16Perror/build",
+  "command": "/usr/bin/clang   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/15bin.dir/stack.c.o -c /Users/egorkirichenko/Projects/C/16Perror/stack.c",
+  "file": "/Users/egorkirichenko/Projects/C/16Perror/stack.c",
+  "output": "CMakeFiles/15bin.dir/stack.c.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/15bin.dir/main.c.o CMakeFiles/15bin.dir/student.c.o CMakeFiles/15bin.dir/stack.c.o -o 15bin 
